@@ -1,7 +1,7 @@
 ### Olá, eu sou André Dimitrin 👋
 
-- 🔭 Tenho trabalhado desenvolvimento web Full Stack
-- 🌱 Me especializando em HTML e CSS/ JavaScript e PHP
+- 🔭 Tenho trabalhado desenvolvimento web Front-end
+- 🌱 Me especializando em HTML e CSS/ JavaScript 
 - 📫 Contate-me pelo e-mail: andre.ed.dimitrin@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -14,8 +14,8 @@
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+
 </div>
   
   ##
