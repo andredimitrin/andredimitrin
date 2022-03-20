@@ -1,7 +1,7 @@
 ### Olá, eu sou André Dimitrin 👋
 
-- 🔭 Tenho trabalhado desenvolvimento web Front-end
-- 🌱 Me especializando em HTML e CSS/ JavaScript 
+- 🔭 Full-Stack, Data Science
+- 🌱 Desenvolvimento Web(HTML e CSS/ JavaScript), Python e R 
 - 📫 Contate-me pelo e-mail: andre.ed.dimitrin@gmail.com
 - 😄 Pronouns: ele/dele
 
