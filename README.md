@@ -3,7 +3,7 @@
 - 🔭 Full-Stack, Data Science
 - 🌱 Desenvolvimento Web 
 - 📫 Contate-me pelo e-mail: andre.ed.dimitrin@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/andredimitrin">
