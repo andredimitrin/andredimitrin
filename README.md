@@ -1,6 +1,6 @@
 ### Olá, eu sou André Dimitrin 👋
 
-- 🔭 Full-Stack, Data Science
+- 🔭 Front-end
 - 🌱 Desenvolvimento Web 
 - 📫 Contate-me pelo e-mail: andre.ed.dimitrin@gmail.com
 
