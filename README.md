@@ -1,8 +1,7 @@
-##Olá, me chamo André Dimitrin! 👋
-###Sou um Desenvolvedor Backend e DevOps
-Olá, eu sou o André Dimitrin, um desenvolvedor iniciante com foco em desenvolvimento backend e DevOps. Atualmente, estou buscando adquirir mais conhecimentos e experiência para evoluir na minha carreira e me tornar um profissional qualificado nessa área.
 
-Hi, I'm André Dimitrin, a beginner developer focused on backend development and DevOps. Currently, I'm looking to acquire more knowledge and experience to evolve in my career and become a qualified professional in this field.
+Olá, me chamo André Dimitrin! 👋
+Sou um Desenvolvedor Backend e DevOps
+Olá, eu sou o André Dimitrin, um desenvolvedor iniciante com foco em desenvolvimento backend e DevOps. Atualmente, estou buscando adquirir mais conhecimentos e experiência para evoluir na minha carreira e me tornar um profissional qualificado nessa área.
 
 Skills: NODE JS / Python / Docker / Kubernetes / AWS / Git
 
@@ -27,11 +26,7 @@ Ferramentas e Tecnologias
   <img align="center" alt="Andre-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img align="center"  align="center" alt="Andre-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 </div>
-  <div>
-    <a href="https://www.linkedin.com/in/andr%C3%A9-eduardo-dimitrin-andrade-8401a51a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "andre.ed.dimitrin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-    
-     
-  
-   ![Snake animation](https://github.com/andredimitrin/andredimitrin/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-eduardo-dimitrin-andrade-8401a51a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:andre.ed.dimitrin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
