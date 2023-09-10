@@ -1,42 +1,61 @@
-# Olá, me chamo André Dimitrin! 👋
-## Sou um Desenvolvedor Backend e Cientista de Dados
-Olá! Eu sou o André Dimitrin, um desenvolvedor com experiência em backend e também com habilidades em Ciência de Dados. Meu foco principal está em projetos relacionados ao desenvolvimento de aplicativos backend, bem como na implementação de infraestrutura DevOps para garantir a eficiência e escalabilidade dessas aplicações. Além disso, tenho conhecimentos em análise de dados, processamento de dados e machine learning.
+# Perfil Profissional
 
-<strong>Skills: NODE JS / Python / Docker / Kubernetes / AWS / Git </strong>
+## Sobre Mim
+Sou um desenvolvedor de software em formação, apaixonado por tecnologia, com um foco em backend e um crescente interesse em data science. Estou atualmente estudando e me aprimorando em várias linguagens de programação e tecnologias.
 
-🔭 Atualmente estou trabalhando em projetos pessoais e nos aprendizados e cursos que tenho feito. Meus projetos envolvem tanto o desenvolvimento backend quanto a aplicação de técnicas de Ciência de Dados para obter insights e tomar decisões baseadas em dados.
+## Linguagens de Programação
+- **Go (Golang):** Tenho proficiência sólida em Go, utilizando-o para criar aplicações escaláveis e eficientes.
+- **Java:** Com ampla experiência em desenvolvimento Java, estou familiarizado com frameworks como Spring para o desenvolvimento de aplicativos empresariais.
+- **JavaScript:** Uso JavaScript tanto no servidor (Node.js) quanto no frontend (com frameworks como Angular) para desenvolver aplicações web interativas.
+- **SQL:** Sou habilidoso em consultas SQL e design de bancos de dados, usando tecnologias como MySQL e PostgreSQL.
+- **Python:** Utilizo Python para projetos de data science e automação de tarefas.
 
-🌱 Atualmente estou aprendendo Desenvolvimento Backend e também aprofundando meus conhecimentos em Ciência de Dados, buscando explorar mais áreas como aprendizado de máquina e processamento de linguagem natural.
+## Data Science
+- Estou começando a mergulhar no campo da ciência de dados, adquirindo habilidades em análise de dados, aprendizado de máquina e visualização de dados.
+- Estou explorando bibliotecas populares como Pandas, NumPy, TensorFlow e Matplotlib para aplicar técnicas de machine learning em projetos.
 
-👯 Estou procurando colaborar em projetos que envolvam desenvolvimento de aplicativos backend e implantação de infraestrutura DevOps. Além disso, estou interessado em projetos relacionados a análise e visualização de dados, em que eu possa aplicar técnicas de Ciência de Dados para extrair informações valiosas.
+## Estudos em Andamento
+- **PHP:** Atualmente, estou aprofundando meus conhecimentos em PHP para desenvolvimento web e aplicações server-side.
+- **C#:** Estou explorando C# e a plataforma .NET, especialmente para aplicativos Windows e desenvolvimento empresarial.
+- **Rust:** Estou estudando Rust, uma linguagem de programação de sistemas, para projetos de alto desempenho e segurança.
+- **Angular:** Estou aprendendo Angular para aprimorar minhas habilidades de desenvolvimento web no frontend.
 
-🤔 Estou procurando ajuda em conseguir uma vaga na área de Desenvolvimento Backend e Ciência de Dados. Se você tiver dicas ou oportunidades interessantes, ficarei muito grato em saber mais!
+## Experiência
+- Embora eu ainda não tenha experiência profissional em tecnologia, tenho trabalhado em diversos projetos pessoais e desafios que me permitiram aplicar e aprimorar minhas habilidades técnicas.
+- Estou empenhado em aprender e crescer continuamente no campo da tecnologia.
 
-📫 Como entrar em contato comigo: andre.ed.dimitrin@gmail.com. Sinta-se à vontade para me contatar se quiser discutir sobre projetos, oportunidades de trabalho ou trocar conhecimentos sobre as áreas em que atuo.
-
-😄 Pronomes: Ele/Dele
+## Objetivos Futuros
+Busco oportunidades de estágio ou aprendizado que me permitam adquirir experiência prática e contribuir para projetos desafiadores. Meu objetivo é construir uma carreira sólida no mundo da tecnologia.
 
 ## Estatísticas do GitHub e Linguagens mais Usadas
 <div>
   <a href="https://github.com/andredimitrin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredimitrin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredimitrin&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredimitrin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredimitrin&layout=compact&langs_count=7&theme=onedark"/>
+  </a>
 </div>
 
-<h2>Ferramentas e Tecnologias</h2>
-<h3>Aqui estão algumas das ferramentas e tecnologias com as quais trabalho: </h3>
+## Ferramentas e Tecnologias
+### Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andre-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Andre-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Andre-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Andre-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="center"  align="center" alt="Andre-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
-   <br>
-   <p><strong><em>Sinta-se à vontade para entrar em contato comigo por meio dessas plataformas! Seja para discutir ideias, projetos, oportunidades de trabalho ou para trocar conhecimentos, estou aberto para colaborar e aprender com outros profissionais da área!</em></strong></p>
+   
+<br>
+   
+<p><strong><em>Sinta-se à vontade para entrar em contato comigo por meio dessas plataformas! Seja para discutir ideias, projetos, oportunidades de trabalho ou para trocar conhecimentos, estou aberto para colaborar e aprender com outros profissionais da área!</em></strong></p>
+
 <div>
   <a href="https://www.linkedin.com/in/andr%C3%A9-eduardo-dimitrin-andrade-8401a51a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:andre.ed.dimitrin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
