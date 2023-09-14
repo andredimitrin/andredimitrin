@@ -19,6 +19,7 @@ Sou um desenvolvedor de software em formação, apaixonado por tecnologia, com u
 - **C#:** Estou explorando C# e a plataforma .NET, especialmente para aplicativos Windows e desenvolvimento empresarial.
 - **Rust:** Estou estudando Rust, uma linguagem de programação de sistemas, para projetos de alto desempenho e segurança.
 - **Angular:** Estou aprendendo Angular para aprimorar minhas habilidades de desenvolvimento web no frontend.
+- **Ruby:** Também estou dedicando tempo ao estudo de Ruby, uma linguagem de programação conhecida pela sua simplicidade e versatilidade, especialmente no desenvolvimento de aplicações web com o framework Ruby on Rails
 
 ## Experiência
 - Embora eu ainda não tenha experiência profissional em tecnologia, tenho trabalhado em diversos projetos pessoais e desafios que me permitiram aplicar e aprimorar minhas habilidades técnicas.
