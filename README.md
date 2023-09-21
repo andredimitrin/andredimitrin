@@ -1,32 +1,33 @@
 # Perfil Profissional
 
 ## Sobre Mim
-Sou um desenvolvedor de software em formação, apaixonado por tecnologia, com um foco em backend e um crescente interesse em data science. Estou atualmente estudando e me aprimorando em várias linguagens de programação e tecnologias.
+Sou um desenvolvedor de software em formação, apaixonado por tecnologia, com foco em backend e um crescente interesse em DevOps e infraestrutura. Atualmente, estou estudando e me aprimorando em várias linguagens de programação e tecnologias.
 
 ## Linguagens de Programação
 - **Go (Golang):** Tenho proficiência sólida em Go, utilizando-o para criar aplicações escaláveis e eficientes.
 - **Java:** Com ampla experiência em desenvolvimento Java, estou familiarizado com frameworks como Spring para o desenvolvimento de aplicativos empresariais.
 - **JavaScript:** Uso JavaScript tanto no servidor (Node.js) quanto no frontend (com frameworks como Angular) para desenvolver aplicações web interativas.
 - **SQL:** Sou habilidoso em consultas SQL e design de bancos de dados, usando tecnologias como MySQL e PostgreSQL.
-- **Python:** Utilizo Python para projetos de data science e automação de tarefas.
+- **Python:** Utilizo Python para projetos de automação e desenvolvimento de scripts.
 
-## Data Science
-- Estou começando a mergulhar no campo da ciência de dados, adquirindo habilidades em análise de dados, aprendizado de máquina e visualização de dados.
-- Estou explorando bibliotecas populares como Pandas, NumPy, TensorFlow e Matplotlib para aplicar técnicas de machine learning em projetos.
+## DevOps e Infraestrutura
+- Estou estudando e praticando conceitos e ferramentas de DevOps, como Docker e Kubernetes, para melhorar a implantação e o gerenciamento de aplicações.
+- Estou aprendendo sobre a infraestrutura como código (IaC) e provisionamento automatizado de recursos na nuvem, especialmente com AWS.
+- Exploro práticas de CI/CD para automatizar o ciclo de vida de desenvolvimento de software.
 
 ## Estudos em Andamento
 - **PHP:** Atualmente, estou aprofundando meus conhecimentos em PHP para desenvolvimento web e aplicações server-side.
 - **C#:** Estou explorando C# e a plataforma .NET, especialmente para aplicativos Windows e desenvolvimento empresarial.
 - **Rust:** Estou estudando Rust, uma linguagem de programação de sistemas, para projetos de alto desempenho e segurança.
 - **Angular:** Estou aprendendo Angular para aprimorar minhas habilidades de desenvolvimento web no frontend.
-- **Ruby:** Também estou dedicando tempo ao estudo de Ruby, uma linguagem de programação conhecida pela sua simplicidade e versatilidade, especialmente no desenvolvimento de aplicações web com o framework Ruby on Rails
+- **Ruby:** Também estou dedicando tempo ao estudo de Ruby, uma linguagem de programação conhecida pela sua simplicidade e versatilidade, especialmente no desenvolvimento de aplicações web com o framework Ruby on Rails.
 
 ## Experiência
 - Embora eu ainda não tenha experiência profissional em tecnologia, tenho trabalhado em diversos projetos pessoais e desafios que me permitiram aplicar e aprimorar minhas habilidades técnicas.
 - Estou empenhado em aprender e crescer continuamente no campo da tecnologia.
 
 ## Objetivos Futuros
-Busco oportunidades de estágio ou aprendizado que me permitam adquirir experiência prática e contribuir para projetos desafiadores. Meu objetivo é construir uma carreira sólida no mundo da tecnologia.
+Busco oportunidades de estágio ou aprendizado que me permitam adquirir experiência prática em DevOps, infraestrutura e desenvolvimento de software. Meu objetivo é construir uma carreira sólida no mundo da tecnologia, aplicando meus conhecimentos em desenvolvimento e operações de TI.
 
 ## Estatísticas do GitHub e Linguagens mais Usadas
 <div>
