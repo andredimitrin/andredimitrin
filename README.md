@@ -19,7 +19,6 @@ Sou um estudante dedicado na área de desenvolvimento de software, apaixonado po
 - **PHP:** Atualmente, estou aprofundando meus conhecimentos em PHP para desenvolvimento web e aplicações server-side.
 - **C#:** Estou explorando C# e a plataforma .NET, especialmente para aplicativos Windows e desenvolvimento empresarial.
 - **Rust:** Estou estudando Rust, uma linguagem de programação de sistemas, para projetos de alto desempenho e segurança.
-- **Angular:** Estou aprendendo Angular para aprimorar minhas habilidades de desenvolvimento web no frontend.
 - **Ruby:** Também estou dedicando tempo ao estudo de Ruby, uma linguagem de programação conhecida por sua simplicidade e versatilidade, especialmente no desenvolvimento de aplicações web com o framework Ruby on Rails.
 
 ## Experiência
@@ -38,7 +37,7 @@ Busco oportunidades de estágio ou aprendizado que me permitam adquirir experiê
 </div>
 
 ## Ferramentas e Tecnologias
-### Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
+Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
@@ -56,7 +55,7 @@ Busco oportunidades de estágio ou aprendizado que me permitam adquirir experiê
    
 <br>
    
-<p><strong><em>Sinta-se à vontade para entrar em contato comigo por meio dessas plataformas! Seja para discutir ideias, projetos, oportunidades de trabalho ou para trocar conhecimentos, estou aberto para colaborar e aprender com outros profissionais da área!</em></strong></p>
+**Sinta-se à vontade para entrar em contato comigo por meio dessas plataformas! Seja para discutir ideias, projetos, oportunidades de trabalho ou para trocar conhecimentos, estou aberto para colaborar e aprender com outros profissionais da área!**
 
 <div>
   <a href="https://www.linkedin.com/in/andr%C3%A9-eduardo-dimitrin-andrade-8401a51a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
