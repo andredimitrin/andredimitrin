@@ -59,9 +59,3 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 </div>
 <br>
    
-**Sinta-se à vontade para entrar em contato comigo por meio dessas plataformas! Seja para discutir ideias, projetos, oportunidades de trabalho ou para trocar conhecimentos, estou aberto para colaborar e aprender com outros profissionais da área!**
-
-<div>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-eduardo-dimitrin-andrade-8401a51a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:andre.ed.dimitrin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
