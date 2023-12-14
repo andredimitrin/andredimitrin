@@ -6,7 +6,7 @@ Sou um entusiasta em desenvolvimento de software, atualmente focado em backend, 
 ## Linguagens de Programação
 - **Go (Golang):** Possuo conhecimento sólido em Go, utilizando a linguagem para criar aplicações escaláveis e eficientes.
 - **Java:** Experiência considerável em desenvolvimento Java, incluindo o uso de frameworks como o Spring para aplicativos empresariais.
-- **JavaScript:** Utilizo JavaScript no servidor (Node.js) e no frontend para desenvolver aplicações web interativas.
+- **JavaScript:** Utilizo JavaScript no servidor (Node.js).
 - **SQL:** Habilidade em consultas SQL e design de bancos de dados, com experiência em MySQL e PostgreSQL.
 - **Python:** Utilizo Python para automação e desenvolvimento de scripts.
 
